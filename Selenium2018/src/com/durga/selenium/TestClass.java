@@ -6,6 +6,7 @@ public class TestClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is test class");
+		System.out.println("From New Repository");
 
 	}
 
