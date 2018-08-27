@@ -8,6 +8,7 @@ public class TestClass {
 		System.out.println("This is test class");
 		System.out.println("From New Repository");
 		System.out.println("Try to add more statement");
+		System.out.println("Try to push");
 
 	}
 
